@@ -25,7 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Framework", "1_Framework"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Window", "3_Window", "{EEC4F970-C18B-4B24-8524-B03CD1E724B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderModule", "HeaderModule\HeaderModule.csproj", "{C5AD86AB-FCE8-4870-89A7-5BA6A7ECE4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeaderModule", "HeaderModule\HeaderModule.csproj", "{C5AD86AB-FCE8-4870-89A7-5BA6A7ECE4BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
