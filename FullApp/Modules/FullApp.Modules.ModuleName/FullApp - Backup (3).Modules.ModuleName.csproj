@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" Version="8.1.97" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FullApp.Core\FullApp.Core.csproj" />
+    <ProjectReference Include="..\..\Services\FullApp.Services.Interfaces\FullApp.Services.Interfaces.csproj" />
+  </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(TargetDir)$(ProjectName).dll&quot; &quot;$(SolutionDir)bin/&quot; /y /i" />
+  </Target>
+</Project>

@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="FullApp.Modules.HeaderModule.Header"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FullApp.Modules.HeaderModule"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:core="clr-namespace:FullApp.Core;assembly=FullApp.Core"
+             prism:ViewModelLocator.AutoWireViewModel="True" >
+    <Grid>
+        <Border  Height="100" BorderThickness="2">
+            <StackPanel prism:RegionManager.RegionName="{x:Static core:RegionNames.HeaderMenuRegion}"/>
+        </Border>
+    </Grid>
+</UserControl>
