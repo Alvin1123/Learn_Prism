@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XjEmtKmj8IuOmgvPBECA9GEZjkJ1T23GFPHCnHdxb5vn6Vf54o8NUcwr0L4xnuZhN8LHPCdXd9Sk1qLrtpzuCA==",
+  "dgSpecHash": "f8sHxm1sp8CwWGaiGCwIJJWqEEUQodcGxV2x20YL4P0rsTgqXIQBSCn/FTxvMsJRniTGvm2Y1OhkPx22I6nJRg==",
   "success": true,
-  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\HeaderModule.csproj",
+  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\HeaderModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CBG\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
     "C:\\Users\\CBG\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",

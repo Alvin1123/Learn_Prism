@@ -60,7 +60,7 @@ namespace FullApp.Modules.HeaderModule {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HeaderModule;component/header.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HeaderModule;V1.0.0.0;component/header.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Header.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

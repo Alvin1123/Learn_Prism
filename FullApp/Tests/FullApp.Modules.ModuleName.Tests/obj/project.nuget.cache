@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLhwawXQZLISzMGZ3Wmzbo4NHF6EFJ+VYM1pgsJeJmEN4eRtduFkiNJBEg0A2XS4NHIWdXGGvttJDvamtEGoug==",
+  "dgSpecHash": "z/03W44YBiOknws8GAaAnimV4/gqYDsnm8CeQ+/sfea4iNTpR52MueYl1wp6DwtiyTR0hP2T2jOOORcH15bnUw==",
   "success": true,
-  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\Tests\\FullApp.Modules.ModuleName.Tests\\FullApp.Modules.ModuleName.Tests.csproj",
+  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\Tests\\FullApp.Modules.ModuleName.Tests\\FullApp.Modules.ModuleName.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CBG\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\CBG\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

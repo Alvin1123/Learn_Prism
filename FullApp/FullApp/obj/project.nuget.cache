@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7KqPpox94E/23xT4F1PtAWEvwCKaIzDsHfE/a3zBb/+19OuvTZoabmwdTym5e+KnpH52wvsCYG+TimAj+4mipg==",
+  "dgSpecHash": "CsI1ZIIT07ASinJBew0oEVF0jBhtDdpCFCODYdqiL6wY5/DzczI47Ggr/VrH5O3WT7Mj1ezPXmZVFiS4Z0cQBQ==",
   "success": true,
-  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp\\FullApp.csproj",
+  "projectFilePath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp\\FullApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CBG\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\CBG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

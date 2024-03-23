@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\HeaderModule.csproj": {}
+    "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\HeaderModule.csproj": {}
   },
   "projects": {
-    "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\FullApp.Core.csproj": {
+    "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\FullApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\FullApp.Core.csproj",
+        "projectUniqueName": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\FullApp.Core.csproj",
         "projectName": "FullApp.Core",
-        "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\FullApp.Core.csproj",
+        "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\FullApp.Core.csproj",
         "packagesPath": "C:\\Users\\CBG\\.nuget\\packages\\",
-        "outputPath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\obj\\",
+        "outputPath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\HeaderModule.csproj": {
+    "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\HeaderModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\HeaderModule.csproj",
+        "projectUniqueName": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\HeaderModule.csproj",
         "projectName": "HeaderModule",
-        "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\HeaderModule.csproj",
+        "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\HeaderModule.csproj",
         "packagesPath": "C:\\Users\\CBG\\.nuget\\packages\\",
-        "outputPath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\HeaderModule\\obj\\",
+        "outputPath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\HeaderModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\FullApp.Core.csproj": {
-                "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\FullApp\\FullApp.Core\\FullApp.Core.csproj"
+              "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\FullApp.Core.csproj": {
+                "projectPath": "E:\\CBG\\Code\\git\\Prism_Project\\git_prism\\Learn_Prism\\FullApp\\FullApp.Core\\FullApp.Core.csproj"
               }
             }
           }

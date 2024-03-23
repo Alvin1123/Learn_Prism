@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FullApp.Modules.ModuleName
-build_property.ProjectDir = E:\CBG\Code\git\Prism_Project\FullApp\Modules\FullApp.Modules.ModuleName\
+build_property.ProjectDir = E:\CBG\Code\git\Prism_Project\git_prism\Learn_Prism\FullApp\Modules\FullApp.Modules.ModuleName\
